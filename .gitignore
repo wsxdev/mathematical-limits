@@ -1,0 +1,13 @@
+# Ignorar archivos del IDE
+.idea/
+.vscode/
+*.iml
+# Ignorar carpetas de compilación
+/build/
+dist/
+output/
+
+# Ignorar logs y cachés
+*.log
+*.tmp
+.cache/
