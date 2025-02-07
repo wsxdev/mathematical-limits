@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <cmath>
-#include "tinyexpr.h"  // Incluye la biblioteca TinyExpr
+#include "tinyexpr.h"
 
 using namespace std;
 
